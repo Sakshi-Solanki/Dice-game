@@ -1,0 +1,33 @@
+body{
+    background-color: #A7D2CB;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+h1{
+    color: #25316D;
+    font-size: 4.5rem;
+}
+
+p{
+    color: #25316D;
+    font-size: 2rem;
+}
+
+footer{
+    text-align: center;
+    padding-top: 30px;
+    color: #25316D;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
